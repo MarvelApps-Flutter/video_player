@@ -1,0 +1,4 @@
+#Thu Dec 08 11:38:19 IST 2022
+base.0=/Users/ayush/Documents/video_player/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
